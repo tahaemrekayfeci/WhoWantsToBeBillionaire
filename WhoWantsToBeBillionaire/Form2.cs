@@ -81,7 +81,7 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if  (randomatma == 2)
@@ -104,12 +104,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -132,7 +132,7 @@ namespace WhoWantsToBeBillionaire
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -142,7 +142,7 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
@@ -166,12 +166,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -194,7 +194,7 @@ namespace WhoWantsToBeBillionaire
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -204,12 +204,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -219,12 +219,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -234,12 +234,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -255,7 +255,7 @@ namespace WhoWantsToBeBillionaire
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -279,7 +279,7 @@ namespace WhoWantsToBeBillionaire
                     MessageBox.Show("Doğru Cevap!");
                     sayilar[0]++;
                     // 2. Soruyu Soruyor
-                    lbl_soru.Text = "Bilim insanları hangisine çıplak gözle direkt bakmamızı tavsiye ederler?";
+                    lbl_soru.Text = "Bilim insanları hangisine çıplak gözle direkt bakmamızı tavsiye etmezler?";
                     lbl_soru_a.Text = "a) Motosiklet sürücülerine";
                     lbl_soru_b.Text = "b) Mağaza indirim yazılarına";
                     lbl_soru_c.Text = "c) Trafik ışıklarına";
@@ -304,12 +304,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -319,12 +319,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -347,7 +347,7 @@ namespace WhoWantsToBeBillionaire
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -357,12 +357,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -372,12 +372,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -387,12 +387,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -436,12 +436,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -451,7 +451,7 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
@@ -684,12 +684,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
 
@@ -700,12 +700,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -715,12 +715,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -730,12 +730,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -745,12 +745,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -760,7 +760,7 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
@@ -783,12 +783,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -798,12 +798,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -813,7 +813,7 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
@@ -836,12 +836,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
 
@@ -862,12 +862,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 // 2. Soru
@@ -890,7 +890,7 @@ namespace WhoWantsToBeBillionaire
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -900,7 +900,7 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
@@ -923,12 +923,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -938,7 +938,7 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
@@ -961,12 +961,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -1007,12 +1007,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -1022,12 +1022,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
             }
@@ -1037,12 +1037,12 @@ namespace WhoWantsToBeBillionaire
                 // Random Attığımız Sayıyı Kontrol Ediyor ve Cevabı
                 if (randomatma == 1)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
                 else if (randomatma == 2)
                 {
-                    MessageBox.Show("Yanlış Cevap!");
+                    MessageBox.Show("Kaybettiniz!");
                     this.Close();
                 }
 
